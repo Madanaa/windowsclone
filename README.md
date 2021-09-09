@@ -1,8 +1,6 @@
 # Windows 11 browser clone made with HTML, CSS and JAVASCRIPT---->
-1.I want to something new and Interesting so that's why I chose the this this projects.
+I want to do something new and Interesting so that's why I chose this project.
 
-2. Create windows 11 using pure HTML, CSS, and javascript
+Create windows 11 using pure HTML, CSS, and javascript
 
-
-3. Feature and functionality are of this project Windows 11 browser layout made with Html, Css and JavaScript. 
-Looking forward to add more functionalitites.
+Feature and functionality are of this project Windows 11 browser layout made with Html, CSS and JavaScript. Looking forward to adding more functionalities.
