@@ -4,5 +4,5 @@
 2. Create windows 11 using pure HTML, CSS, and javascript
 
 
-Windows 11 browser layout made with Html, Css and JavaScript. 
+3. Feature and functionality are of this project Windows 11 browser layout made with Html, Css and JavaScript. 
 Looking forward to add more functionalitites.
